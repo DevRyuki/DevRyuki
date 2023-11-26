@@ -4,6 +4,8 @@
 
 ### Tech Blog
 <!-- BLOG-POST-LIST:START -->
+- [Next.js 14でSupabase Authを使用すると「AuthApiError: PKCE flow is not ...」](https://zenn.dev/sasatech/articles/3acaa6c3e69e36)
+- [Next.jsでCapacitorを使いiOSアプリを開発：環境構築](https://zenn.dev/sasatech/articles/f47db0bd27544c)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">SNS</h3>
