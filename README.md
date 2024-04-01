@@ -4,9 +4,9 @@
 
 ### Tech Blog
 <!-- BLOG-POST-LIST:START -->
+- [SupabaseでGoogle認証を使用したいけど、.local.envが認識がされない](https://zenn.dev/sasatech/articles/2513ed6ec870f1)
 - [Next.jsでMiddlewareが大量に実行される場合の対処法](https://zenn.dev/sasatech/articles/035e634d7ea8c3)
 - [Next.js 14でSupabase Authを使用すると「AuthApiError: PKCE flow is not ...」](https://zenn.dev/sasatech/articles/3acaa6c3e69e36)
-- [Next.jsでCapacitorを使いiOSアプリを開発：環境構築](https://zenn.dev/sasatech/articles/f47db0bd27544c)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">SNS</h3>
