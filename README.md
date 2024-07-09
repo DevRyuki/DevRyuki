@@ -4,9 +4,9 @@
 
 ### Tech Blog
 <!-- BLOG-POST-LIST:START -->
+- [Vercelでunable to determine transport target for &quot;pino-pretty&quot;と怒られる](https://zenn.dev/sasatech/articles/dec3891fef1c08)
 - [【初心者向け】Next.jsとSupabaseを使用したローカル開発環境の構築](https://zenn.dev/sasatech/articles/1c8ba43ec14e25)
 - [SupabaseでGoogle認証を使用したいけど「.local.env」が認識がされない](https://zenn.dev/sasatech/articles/2513ed6ec870f1)
-- [Next.jsでMiddlewareが大量に実行される場合の対処法](https://zenn.dev/sasatech/articles/035e634d7ea8c3)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">SNS</h3>
