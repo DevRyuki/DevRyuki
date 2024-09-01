@@ -6,7 +6,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [ZodでDate型を使うとSupabaseのinsertで怒られる](https://zenn.dev/sasatech/articles/e2002249c0af14)
 - [Vercelでunable to determine transport target for &quot;pino-pretty&quot;と怒られる](https://zenn.dev/sasatech/articles/dec3891fef1c08)
-- [【初心者向け】Next.jsとSupabaseを使用したローカル開発環境の構築（with-supabaseを使用）](https://zenn.dev/sasatech/articles/1c8ba43ec14e25)
+- [【初心者向け】Next.jsの「with-supabase」を使用したSupabaseのローカル開発構築](https://zenn.dev/sasatech/articles/1c8ba43ec14e25)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">SNS</h3>
