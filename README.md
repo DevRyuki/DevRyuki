@@ -5,8 +5,8 @@
 ### Tech Blog
 <!-- BLOG-POST-LIST:START -->
 - [Supabase SDKでJSONB配列を検索する。](https://zenn.dev/sasatech/articles/5fabf645f1e316)
-- [ZodでDate型を使うとSupabaseのinsertで怒られる](https://zenn.dev/sasatech/articles/e2002249c0af14)
-- [Vercelでunable to determine transport target for &quot;pino-pretty&quot;と怒られる](https://zenn.dev/sasatech/articles/dec3891fef1c08)
+- [SupabaseのDateのカラムをZodでバリデーションするときの注意点](https://zenn.dev/sasatech/articles/e2002249c0af14)
+- [Vercelで&quot;pino-pretty&quot;を実行して&quot;Application error: ...&quot;になる場合の解決策](https://zenn.dev/sasatech/articles/dec3891fef1c08)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">SNS</h3>
